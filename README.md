@@ -2,12 +2,13 @@
 
 ### Hello there 👋
 
-+ 3 years of experience working with technologies for the development of Web applications using a complete software process for their implementation.
+<p>+ 3 years of experience working with technologies for the development of Web applications using a complete software process for their implementation.</p>
 
 ### 🌳 I already have some experience working with:
 - MeteorJS framework
 - React Hooks and Classes
 - MongoDB
+- NodeJS
 
 ### 🌱 I’m currently keep learning about:
 - Neo4j Databases
